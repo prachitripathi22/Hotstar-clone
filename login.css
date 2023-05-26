@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding :0;
+}
+.form-box{
+    background:rgb(33,45,70);
+    position: absolute;
+    left :33%;
+    top:15%;
+    z-index: 2;
+    /* display: none; */
+    width: 500px;
+    height: 350px;    
+}
+.ghh1{
+    background: rgb(33,45,70);
+    position: absolute;
+    left :33%;
+    top:15%;
+    z-index: 2;
+    width: 500px;
+    display: block;
+    text-align: center;
+    height: 350px;
+    
+}
